@@ -1,2 +1,3 @@
 # ChatBot
-its an AI chatbot using google API
+Its an AI chatbot using google API
+https://aistudio.google.com/app/apikey
